@@ -179,8 +179,6 @@ The combination of SQL, Python, dbt, Snowflake, and Tableau demonstrates a compr
 ## Maintainer Information
 
 **Shashank Thimmegowda**  
-Snowflake Data Engineer  
-Email: shashank.thimmegowda97@gmail.com  
-LinkedIn: https://www.linkedin.com/in/shashank-thimmegowda-97/
+Snowflake Data Engineer
 
 I am a Snowflake Data Engineer with approximately 5 years of experience in designing, optimizing, and managing scalable ETL/ELT data pipelines. This repository showcases my ability to integrate diverse cloud technologies and transform raw data into actionable business intelligence. For inquiries regarding the maintenance or implementation of this pipeline, please reach out via the contact information above.
